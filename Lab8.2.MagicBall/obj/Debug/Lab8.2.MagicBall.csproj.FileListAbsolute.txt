@@ -1,0 +1,20 @@
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\bin\Debug\Lab8.2.MagicBall.exe.config
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\bin\Debug\Lab8.2.MagicBall.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\bin\Debug\Lab8.2.MagicBall.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\obj\Debug\Lab8._2.MagicBall.MainForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\obj\Debug\Lab8._2.MagicBall.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.pdb
+C:\Users\umid\source\repos\Lab8.2.MagicBall\bin\Debug\Lab8.2.MagicBall.exe.config
+C:\Users\umid\source\repos\Lab8.2.MagicBall\bin\Debug\Lab8.2.MagicBall.exe
+C:\Users\umid\source\repos\Lab8.2.MagicBall\bin\Debug\Lab8.2.MagicBall.pdb
+C:\Users\umid\source\repos\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.csproj.AssemblyReference.cache
+C:\Users\umid\source\repos\Lab8.2.MagicBall\obj\Debug\Lab8._2.MagicBall.MainForm.resources
+C:\Users\umid\source\repos\Lab8.2.MagicBall\obj\Debug\Lab8._2.MagicBall.Properties.Resources.resources
+C:\Users\umid\source\repos\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.csproj.GenerateResource.cache
+C:\Users\umid\source\repos\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.csproj.CoreCompileInputs.cache
+C:\Users\umid\source\repos\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.exe
+C:\Users\umid\source\repos\Lab8.2.MagicBall\obj\Debug\Lab8.2.MagicBall.pdb
